@@ -9,4 +9,4 @@
 ## To run each file:
 
 1. Run `python src/classes/Cat.py` or `python3 src/classes/Cat.py`.
-2. Run `python src/classes/Dog.py` or `python3 src/classes/Dog.py`.
+2. Run `python src/classes/Pup.py` or `python3 src/classes/Pup.py`.
